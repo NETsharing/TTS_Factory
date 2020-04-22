@@ -1,0 +1,7 @@
+/venv/
+config.py
+__pycache__
+docs
+/.idea/
+/log/app.log
+create_schema.py
